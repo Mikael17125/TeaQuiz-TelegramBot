@@ -1,0 +1,40 @@
+-
+  id: 1
+  q: Siapa 1
+  type: '0'
+  a:
+    - satu
+    - correct: dua
+    - tiga
+-
+  id: 2
+  q: Siapa 2
+  type: '0'
+  a:
+    - satu
+    - correct: dua
+    - tiga
+-
+  id: 3
+  q: Siapa 3
+  type: '0'
+  a:
+    - satu
+    - correct: dua
+    - tiga
+-
+  id: 4
+  q: Siapa 4
+  type: '0'
+  a:
+    - satu
+    - correct: dua
+    - tiga
+-
+  id: 5
+  q: Siapa 5
+  type: '0'
+  a:
+    - satu
+    - correct: dua
+    - tiga
